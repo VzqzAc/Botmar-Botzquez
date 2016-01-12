@@ -1,0 +1,19 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "Holi soy un demo jiji",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holi",
+    "crayoli"
+  ],
+  "author": "Omar V",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.1.1"
+  }
+}
